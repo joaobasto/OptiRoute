@@ -25,3 +25,4 @@ replay_pid*
 
 #IntelliJ Idea files
 .idea
+*.iml
